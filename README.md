@@ -1,2 +1,2 @@
-# upload_torrent
-负责上传种子的服务
+# resource_share_sys
+资源共享系统
